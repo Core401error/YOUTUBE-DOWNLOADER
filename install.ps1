@@ -26,4 +26,4 @@ if ($paths -notcontains $installDir) {
 Write-Host ""
 Write-Host "Installed. Close and reopen your terminal, then run:"
 Write-Host "  media_dn"
-Write-Host '  media-dl "search words" --quality 1080'
+Write-Host '  media-dn "search words" --quality 1080'
